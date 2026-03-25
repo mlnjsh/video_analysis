@@ -34,3 +34,34 @@ The following Python libraries are required:
 Install these using:
 ```bash
 pip install opencv-python mediapipe numpy pandas moviepy librosa matplotlib
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ultralytics">
+        <img src="https://github.com/ultralytics.png" width="80px;" alt="Ultralytics"/><br />
+        <sub><b>Ultralytics</b></sub>
+      </a><br />
+      <sub>YOLOv8 object detection</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/open-mmlab">
+        <img src="https://github.com/open-mmlab.png" width="80px;" alt="OpenMMLab"/><br />
+        <sub><b>OpenMMLab</b></sub>
+      </a><br />
+      <sub>MMDetection, MMTracking</sub>
+    </td>
+  </tr>
+</table>
